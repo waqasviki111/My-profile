@@ -1,26 +1,57 @@
 {
-  "name": "Waqas Ahmad",
-"image":"",
-"profession":"Software Developer",
-  "caption": "Engaged, creative computer science student. Seeking to leverage
-exemplary leadership skills, analytical skills, and coding skills. Love
-to explore and learn new thing and team work.
-",
-  "skills": [
-        { "id": "1", "title": "Mean/Mern Development", "experience": "6 months" },
-	{ "id": "2", "title": "XAMP Development", "experience": "1.5 years" },
-	{ "id": "3", "title": "Mobile App Development", "experience": "3 months" },
-	{ "id": "4", "title": "Communication Skills", "experience": ".." },
-	{ "id": "5", "title": "Project Management", "experience": "3 years" },
+	"name": "Waqas Ahmad",
+	"image": "",
+	"profession": "Software Developer",
+	"caption": "Engaged, creative computer science student. Seeking to leverage",
+	"skills": [{
+			"id": "1",
+			"title": "Mean/Mern Development",
+			"experience": "6 months"
+		},
+		{
+			"id": "2",
+			"title": "XAMP Development",
+			"experience": "1.5 years"
+		},
+		{
+			"id": "3",
+			"title": "Mobile App Development",
+			"experience": "3 months"
+		},
+		{
+			"id": "4",
+			"title": "Communication Skills",
+			"experience": ".."
+		},
+		{
+			"id": "5",
+			"title": "Project Management",
+			"experience": "3 years"
+		}
 
 
-  ],
-  "projects": [
-    { "id": "1", "title": "House Price Prediction", "tech": "Machine Learning" },
-{ "id": "2", "title": "Jail Managemnet System", "tech": "Java Swing & Oracle Database" },
-{ "id": "3", "title": "E-commerce website", "tech": "HTML,CSS,JS,PHP(Laravel)" },
-{ "id": "4", "title": "Train Ticket Booking system","tech": "C++ & Data Structure"},
+	],
+	"projects": [{
+			"id": "1",
+			"title": "House Price Prediction",
+			"tech": "Machine Learning"
+		},
+		{
+			"id": "2",
+			"title": "Jail Managemnet System",
+			"tech": "Java Swing & Oracle Database"
+		},
+		{
+			"id": "3",
+			"title": "E-commerce website",
+			"tech": "HTML,CSS,JS,PHP(Laravel)"
+		},
+		{
+			"id": "4",
+			"title": "Train Ticket Booking system",
+			"tech": "C++ & Data Structure"
+		}
 
-  ],
+	]
 
 }
